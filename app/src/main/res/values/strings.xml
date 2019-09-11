@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zxingdemo</string>
+    <string name="scanner_with_timeout">scan with timeout</string>
+    <string name="about">about</string>
+    <string name="tabs">tabs</string>
+    <string name="scanner_with_margin">scan with margin</string>
+    <string name="custom_scanner">custom scanner</string>
+    <string name="toolbar_activity">toolbar activity</string>
+    <string name="scan_barcode">scan</string>
+    <string name="create_barcode">create barcode</string>
+    <string name="continous">Continous</string>
+    <string name="tabcompat">tabcompat</string>
+    <string name="turn_on_flashlight">On</string>
+    <string name="turn_off_flashlight">Off</string>
+    <string name="custom">Custom</string>
+</resources>
